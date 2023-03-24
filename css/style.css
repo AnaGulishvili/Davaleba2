@@ -34,11 +34,60 @@
 .photo-container {
     width: 1400px;
     margin: auto;
-    background-color: red;
     display: flex;
     padding: 96px;
 }
 .garden-image {
     width: 1400px;
     justify-content: center;
+}
+.article-container {
+    width: 936px;
+    height: 1081px;
+    
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: flex-start;
+
+}
+.title1 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 59px;
+    color: #274C5B;
+    margin-bottom: 28px;
+}
+.paragraph {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 165.4%;
+    color: #525C60;
+}
+.photo3 {
+    width: 379px;
+    height: 252px;
+    border-radius: 20px;
+    margin-top: 70px;
+}
+.greybox1 {
+    width: 537px;
+    height: 252px;
+    background-color: #F9F8F8;
+    margin-top: 70px;
+    gap: 10px;
+    padding: 63px 45px;
+}
+.title2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #274C5B;
+    margin-bottom: 7px;
 }
