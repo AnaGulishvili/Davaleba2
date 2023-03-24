@@ -27,19 +27,18 @@
     line-height: 23px;
     margin-right: 20px;
 }
-.banner-container {
-    width: 2224px;
-    height: 940px;
-    background-color:red;
-}
 .banner-photo {
     width: 100%;
+    margin-bottom: 86px;
 }
 .photo-container {
     width: 1400px;
-    height: 934px;
-    margin: 100px auto;
+    margin: auto;
+    background-color: red;
+    display: flex;
+    padding: 96px;
 }
 .garden-image {
-    width: 100%;
+    width: 1400px;
+    justify-content: center;
 }
