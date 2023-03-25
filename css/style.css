@@ -35,11 +35,11 @@
     width: 1400px;
     margin: auto;
     display: flex;
-    padding: 96px;
 }
 .garden-image {
     width: 1400px;
     justify-content: center;
+    margin: 96px auto;
 }
 .container1 {
     width: 936px;
@@ -113,7 +113,12 @@
     font-size: 35px;
     line-height: 41px;
     color: #274C5B;
+    margin-bottom: 11px;
 }
-
+.last-image {
+    width: 1400px;
+    border-radius: 30px;
+    justify-content: center;
+}
 
 
