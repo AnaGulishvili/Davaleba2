@@ -119,6 +119,24 @@
     width: 1400px;
     border-radius: 30px;
     justify-content: center;
+    margin-bottom: 60px;
 }
+.footer-info-container {
+    width: 1404px;
+    height: 308px;  
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+.footer-title1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #274C5B;
+}
+
 
 
