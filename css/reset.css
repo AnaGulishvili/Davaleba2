@@ -47,8 +47,6 @@ table {
 	border-spacing: 0;
 }
 a {
-    text-decoration: none;
-}
-li {
-	text-decoration: none;
+    text-decoration: none !important;
+	
 }
